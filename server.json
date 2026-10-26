@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.triremes/triremes",
+  "title": "Triremes",
+  "description": "Search real problems people have and business websites with poor SEO/AEO. Read-only, free.",
+  "version": "1.0.0",
+  "websiteUrl": "https://triremes.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://triremes.com/mcp"
+    }
+  ]
+}
