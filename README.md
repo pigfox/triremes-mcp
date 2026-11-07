@@ -1,6 +1,6 @@
 # Triremes MCP server
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/pigfox-triremes-mcp-89233b?v=9f34a3b22f91aae4175c658dbcaa2a9d)](https://m8ven.ai/mcp/pigfox-triremes-mcp-89233b?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/pigfox-triremes-mcp-89233b)](https://m8ven.ai/mcp/pigfox-triremes-mcp-89233b?s=readme)
 
 Find out who needs your fix, from inside your AI assistant.
 
